@@ -8,4 +8,4 @@ Mainly wrote for UnityEngine but can be used for other projects
 
 Example: Test/TestCustomBigInteger.cs
 
-No special setup. Just add the file and call "CustomBigInteger" as a variable, etc.
+No special setup. Just add the file CustomBigInteger.cs to your project(s) and call "CustomBigInteger" as a variable, etc.
